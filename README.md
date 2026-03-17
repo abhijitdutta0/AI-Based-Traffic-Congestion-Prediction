@@ -1,7 +1,7 @@
 # AI-Based-Traffic-Congestion-Prediction
 # AI-Based Traffic Congestion Prediction using Edge AI
 
-## 📌 Project Overview
+## Project Overview
 
 Traffic congestion is one of the major problems in modern urban areas.
 Traditional traffic monitoring systems rely on manual observation or basic sensors, which cannot predict congestion in advance.
@@ -13,7 +13,7 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Detect traffic density using AI
 * Predict traffic congestion in real time
@@ -23,7 +23,7 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Real-time video processing
 * Vehicle detection using AI model
@@ -35,7 +35,7 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * OpenCV
@@ -48,7 +48,7 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## 🧠 System Workflow
+## System Workflow
 
 1. Capture live video from traffic CCTV
 2. Convert video into frames
@@ -63,7 +63,7 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## 💻 Hardware Requirements
+## Hardware Requirements
 
 * Raspberry Pi / Jetson Nano
 * CCTV Camera / Video input
@@ -72,7 +72,7 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## 📊 Expected Output
+## Expected Output
 
 * Real-time traffic detection
 * Congestion prediction
@@ -82,7 +82,7 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 * Smart traffic light control
 * Accident detection
@@ -92,16 +92,18 @@ The solution is designed to work with existing surveillance infrastructure witho
 
 ---
 
-## 👨‍💻 Team Members
+## Team Members
 
 Lead Participant: Abhijit Dutta
 Co-Participant: Ravi Prakash
+Co-Participant: Naushad Alam Mansoori
+Co-Participant: Preety Mandal
 Department: EE & VLSI Design
 Institute: Maulana Abul Kalam Azad University Of Technology
 Academic Year: 2025–26
 
 ---
 
-## 📄 License
+## License
 
 This project is developed for academic and research purposes.
