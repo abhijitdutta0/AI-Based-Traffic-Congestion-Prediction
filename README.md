@@ -1,4 +1,3 @@
-# AI-Based-Traffic-Congestion-Prediction
 # AI-Based Traffic Congestion Prediction using Edge AI
 
 ## Project Overview
