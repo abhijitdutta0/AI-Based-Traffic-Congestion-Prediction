@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+twilio
+requests
+folium
+streamlit-folium
+polyline
+numpy
+google-generativeai
